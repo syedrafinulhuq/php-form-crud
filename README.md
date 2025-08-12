@@ -122,4 +122,8 @@ services:
 This project is licensed under the MIT License.
 
 ![Live View](image.png)
-<video controls src="20250812-1126-24.7748211.mp4" title="Title"></video>
+<video controls src="20250812-
+
+https://github.com/user-attachments/assets/ec3eb129-83c5-450d-afd6-af07ab330c3b
+
+1126-24.7748211.mp4" title="Title"></video>
